@@ -1,0 +1,1489 @@
+26-05-2014   02:21:55 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+26-05-2014   02:21:57 PM | LoggerName : RegistryFactory  | Clients memory Free:9, Total:15, Max:494
+26-05-2014   02:21:59 PM | LoggerName : Utilities  | Clients memory Free:12, Total:24, Max:494
+26-05-2014   02:22:00 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+26-05-2014   02:22:01 PM | LoggerName : Utilities  | Clients memory Free:36, Total:64, Max:494
+26-05-2014   02:22:02 PM | LoggerName : Finanical  | Clients memory Free:48, Total:84, Max:494
+26-05-2014   02:22:03 PM | LoggerName : Financial  | Clients memory Free:58, Total:106, Max:494
+26-05-2014   02:22:04 PM | LoggerName : Utilities  | Clients memory Free:74, Total:129, Max:494
+26-05-2014   02:22:04 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:129, Max:494
+26-05-2014   02:22:41 PM | LoggerName : Utilities  | Clients memory Free:61, Total:172, Max:494
+26-05-2014   02:22:41 PM | LoggerName : Utilities  | Clients memory Free:61, Total:172, Max:494
+26-05-2014   02:22:41 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+27-05-2014   04:55:41 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+27-05-2014   04:55:44 PM | LoggerName : RegistryFactory  | Clients memory Free:9, Total:15, Max:494
+27-05-2014   04:55:45 PM | LoggerName : Utilities  | Clients memory Free:12, Total:24, Max:494
+27-05-2014   04:55:46 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+27-05-2014   04:55:48 PM | LoggerName : Utilities  | Clients memory Free:36, Total:64, Max:494
+27-05-2014   04:55:49 PM | LoggerName : Finanical  | Clients memory Free:48, Total:84, Max:494
+27-05-2014   04:55:50 PM | LoggerName : Financial  | Clients memory Free:58, Total:106, Max:494
+27-05-2014   04:55:51 PM | LoggerName : Utilities  | Clients memory Free:74, Total:129, Max:494
+27-05-2014   04:55:51 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:129, Max:494
+27-05-2014   04:56:17 PM | LoggerName : Inventory  | Clients memory Free:76, Total:161, Max:494
+27-05-2014   04:58:36 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+27-05-2014   04:58:37 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+27-05-2014   05:36:27 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+27-05-2014   05:36:28 PM | LoggerName : RegistryFactory  | Clients memory Free:9, Total:15, Max:494
+27-05-2014   05:36:30 PM | LoggerName : Utilities  | Clients memory Free:12, Total:24, Max:494
+27-05-2014   05:36:31 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+27-05-2014   05:36:34 PM | LoggerName : Utilities  | Clients memory Free:36, Total:64, Max:494
+27-05-2014   05:36:35 PM | LoggerName : Finanical  | Clients memory Free:48, Total:84, Max:494
+27-05-2014   05:36:36 PM | LoggerName : Financial  | Clients memory Free:58, Total:106, Max:494
+27-05-2014   05:36:37 PM | LoggerName : Utilities  | Clients memory Free:74, Total:129, Max:494
+27-05-2014   05:36:37 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:129, Max:494
+27-05-2014   05:39:16 PM | LoggerName : Utilities  | Clients memory Free:99, Total:172, Max:494
+27-05-2014   05:39:23 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+27-05-2014   05:39:23 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+09-06-2014   05:38:38 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+09-06-2014   05:38:42 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+09-06-2014   05:38:44 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+09-06-2014   05:38:46 PM | LoggerName : Home  | Clients memory Free:10, Total:42, Max:494
+09-06-2014   05:38:46 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+09-06-2014   05:38:47 PM | LoggerName : Finanical  | Clients memory Free:44, Total:84, Max:494
+09-06-2014   05:38:49 PM | LoggerName : Financial  | Clients memory Free:58, Total:106, Max:494
+09-06-2014   05:38:50 PM | LoggerName : Utilities  | STARTUP Memory Free:48, Total:106, Max:494
+09-06-2014   05:38:50 PM | LoggerName : Utilities  | Clients memory Free:69, Total:129, Max:494
+09-06-2014   05:39:38 PM | LoggerName : PrescriptionTable  | Clients memory Free:71, Total:165, Max:494
+09-06-2014   05:41:00 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+09-06-2014   05:41:00 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+10-06-2014   03:52:23 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+10-06-2014   03:52:26 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+10-06-2014   03:52:29 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+10-06-2014   03:52:30 PM | LoggerName : Home  | Clients memory Free:10, Total:42, Max:494
+10-06-2014   03:52:30 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+10-06-2014   03:52:32 PM | LoggerName : Finanical  | Clients memory Free:44, Total:84, Max:494
+10-06-2014   03:52:33 PM | LoggerName : Financial  | Clients memory Free:58, Total:106, Max:494
+10-06-2014   03:52:34 PM | LoggerName : Utilities  | STARTUP Memory Free:47, Total:106, Max:494
+10-06-2014   03:52:34 PM | LoggerName : Utilities  | Clients memory Free:69, Total:129, Max:494
+10-06-2014   03:52:58 PM | LoggerName : Sales  | Clients memory Free:88, Total:171, Max:494
+10-06-2014   03:53:11 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+10-06-2014   03:53:11 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+12-06-2014   04:57:34 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+12-06-2014   04:57:38 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+12-06-2014   04:57:40 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+12-06-2014   04:57:41 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+12-06-2014   04:57:42 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+12-06-2014   04:57:43 PM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+12-06-2014   04:57:44 PM | LoggerName : Financial  | Clients memory Free:52, Total:105, Max:494
+12-06-2014   04:57:45 PM | LoggerName : Utilities  | Clients memory Free:74, Total:129, Max:494
+12-06-2014   04:57:45 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:129, Max:494
+12-06-2014   05:08:45 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+12-06-2014   05:08:46 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+12-06-2014   05:16:16 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+12-06-2014   05:16:20 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+12-06-2014   05:16:23 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+12-06-2014   05:16:24 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+12-06-2014   05:16:25 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+12-06-2014   05:16:26 PM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+12-06-2014   05:16:27 PM | LoggerName : Financial  | Clients memory Free:52, Total:105, Max:494
+12-06-2014   05:16:28 PM | LoggerName : Utilities  | Clients memory Free:74, Total:129, Max:494
+12-06-2014   05:16:28 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:129, Max:494
+12-06-2014   05:17:01 PM | LoggerName : Sales  | Clients memory Free:88, Total:158, Max:494
+12-06-2014   05:44:25 PM | LoggerName : ListController  | Method:callMenus Entry Free:56, Total:158, Max:494
+12-06-2014   05:50:37 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+12-06-2014   05:50:37 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+12-06-2014   05:53:25 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+12-06-2014   05:53:28 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+12-06-2014   05:53:31 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+12-06-2014   05:53:33 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+12-06-2014   05:53:34 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+12-06-2014   05:53:35 PM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+12-06-2014   05:53:37 PM | LoggerName : Financial  | Clients memory Free:52, Total:105, Max:494
+12-06-2014   05:53:38 PM | LoggerName : Utilities  | Clients memory Free:74, Total:129, Max:494
+12-06-2014   05:53:38 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:129, Max:494
+12-06-2014   06:31:05 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+12-06-2014   06:31:09 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+12-06-2014   06:31:15 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+12-06-2014   06:31:16 PM | LoggerName : Home  | Clients memory Free:10, Total:43, Max:494
+12-06-2014   06:31:17 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+12-06-2014   06:31:18 PM | LoggerName : Finanical  | Clients memory Free:44, Total:84, Max:494
+12-06-2014   06:31:20 PM | LoggerName : Financial  | Clients memory Free:58, Total:106, Max:494
+12-06-2014   06:31:21 PM | LoggerName : Utilities  | Clients memory Free:74, Total:129, Max:494
+12-06-2014   06:31:21 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:129, Max:494
+12-06-2014   06:32:12 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+12-06-2014   06:32:12 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+01-07-2014   02:36:05 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+01-07-2014   02:36:14 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+01-07-2014   02:36:15 PM | LoggerName : RegistryFactory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:16 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:17 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:18 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:19 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:20 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:21 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:22 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:23 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:24 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:26 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:26 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+01-07-2014   02:36:27 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:27 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+01-07-2014   02:36:28 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:29 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:29 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+01-07-2014   02:36:30 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:31 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:31 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+01-07-2014   02:36:32 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:33 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:34 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:35 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:36 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:37 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:38 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:39 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:40 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:41 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:41 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:26, Max:494
+01-07-2014   02:36:42 PM | LoggerName : PurchaseReturn  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:43 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:44 PM | LoggerName : HeaderRenderer2  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:45 PM | LoggerName : HeaderRenderer2  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:47 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:48 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:49 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:50 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:51 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:52 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:53 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:54 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:55 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:56 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:56 PM | LoggerName : Inventory  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+01-07-2014   02:36:57 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:57 PM | LoggerName : Utilities  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+01-07-2014   02:36:57 PM | LoggerName : Home  | Clients memory Free:11, Total:43, Max:494
+01-07-2014   02:36:58 PM | LoggerName : Home  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:36:59 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:00 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:01 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:02 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:03 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:04 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:05 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:07 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:08 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:09 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:10 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:10 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+01-07-2014   02:37:10 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:10 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+01-07-2014   02:37:11 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:11 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+01-07-2014   02:37:12 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:12 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+01-07-2014   02:37:13 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:14 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:15 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:16 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:17 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:18 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:19 PM | LoggerName : Utilities  | Clients memory Free:40, Total:71, Max:494
+01-07-2014   02:37:20 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:20 PM | LoggerName : Utilities  | calcDiscTotal() settingsCtrl Exception:null
+01-07-2014   02:37:21 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:21 PM | LoggerName : Utilities  | calcDiscTotal() settingsCtrl Exception:null
+01-07-2014   02:37:22 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:22 PM | LoggerName : Utilities  | calcDiscTotal() settingsCtrl Exception:null
+01-07-2014   02:37:23 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:24 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:25 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:26 PM | LoggerName : Sales  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:27 PM | LoggerName : Sales  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:28 PM | LoggerName : Sales  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:29 PM | LoggerName : Sales  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:30 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:30 PM | LoggerName : Utilities  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+01-07-2014   02:37:31 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:31 PM | LoggerName : Utilities  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+01-07-2014   02:37:32 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:32 PM | LoggerName : Utilities  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+01-07-2014   02:37:33 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:33 PM | LoggerName : Utilities  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+01-07-2014   02:37:34 PM | LoggerName : Finanical  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:35 PM | LoggerName : Finanical  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:36 PM | LoggerName : Finanical  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:36 PM | LoggerName : Finanical  | Class : ViewPaymentTable  Method : LoadViewPaymentChargers()   = null
+01-07-2014   02:37:36 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+01-07-2014   02:37:37 PM | LoggerName : Finanical  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:38 PM | LoggerName : Finanical  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:39 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:39 PM | LoggerName : Utilities  | Class : chequeTransTable  Method : loadTableValues  Exception: null
+01-07-2014   02:37:40 PM | LoggerName : Finanical  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:41 PM | LoggerName : com.vanuston.medeil.uitables  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:42 PM | LoggerName : com.vanuston.medeil.uitables  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:42 PM | LoggerName : com.vanuston.medeil.uitables  | Class : ChequeTable  Method : loadChequeValues ()   = null
+01-07-2014   02:37:43 PM | LoggerName : financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:44 PM | LoggerName : financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:45 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:45 PM | LoggerName : Utilities  | Class : BankBookTable  Method : loadingTableValues  Exception: null
+01-07-2014   02:37:46 PM | LoggerName : Financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:47 PM | LoggerName : Financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:48 PM | LoggerName : Financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:48 PM | LoggerName : Financial  | Class : ViewReceiptTable  Method : LoadReceiptValues()   = null
+01-07-2014   02:37:49 PM | LoggerName : Financial  | Clients memory Free:59, Total:104, Max:494
+01-07-2014   02:37:50 PM | LoggerName : Financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:51 PM | LoggerName : Financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:52 PM | LoggerName : Financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:53 PM | LoggerName : Financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:54 PM | LoggerName : Financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:55 PM | LoggerName : Financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:56 PM | LoggerName : Financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:37:57 PM | LoggerName : Financial  | Method:getClientStub Exception:Connection refused to host: 192.168.100.27; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+01-07-2014   02:48:40 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+01-07-2014   02:48:42 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+01-07-2014   02:48:43 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+01-07-2014   02:48:44 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+01-07-2014   02:48:45 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+01-07-2014   02:48:46 PM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+01-07-2014   02:48:48 PM | LoggerName : Financial  | Clients memory Free:52, Total:105, Max:494
+01-07-2014   02:48:48 PM | LoggerName : Utilities  | Clients memory Free:75, Total:129, Max:494
+01-07-2014   02:48:49 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:129, Max:494
+01-07-2014   02:49:03 PM | LoggerName : Utilities  | Clients memory Free:98, Total:170, Max:494
+01-07-2014   02:49:05 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+01-07-2014   02:49:05 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+03-07-2014   05:07:13 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+03-07-2014   05:07:14 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+03-07-2014   05:07:16 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+03-07-2014   05:07:17 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+03-07-2014   05:07:18 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+03-07-2014   05:07:19 PM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+03-07-2014   05:07:20 PM | LoggerName : Financial  | Clients memory Free:52, Total:105, Max:494
+03-07-2014   05:07:21 PM | LoggerName : Utilities  | Clients memory Free:75, Total:129, Max:494
+03-07-2014   05:07:21 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:129, Max:494
+03-07-2014   05:07:42 PM | LoggerName : Utilities  | Clients memory Free:93, Total:161, Max:494
+03-07-2014   05:08:31 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+03-07-2014   05:08:31 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+24-07-2014   04:49:21 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+24-07-2014   04:49:25 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+24-07-2014   04:49:46 PM | LoggerName : RegistryFactory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.201; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+24-07-2014   04:50:07 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.201; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+24-07-2014   04:50:28 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.201; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+24-07-2014   04:50:49 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.201; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+24-07-2014   04:51:11 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.201; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+24-07-2014   04:51:32 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.201; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+24-07-2014   04:51:53 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.201; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+24-07-2014   04:52:14 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.201; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+24-07-2014   04:52:35 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.201; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+24-07-2014   04:52:56 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.201; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+24-07-2014   04:53:17 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.201; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+24-07-2014   04:53:17 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+25-07-2014   10:19:29 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+25-07-2014   10:19:30 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+25-07-2014   10:19:32 AM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+25-07-2014   10:19:33 AM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+25-07-2014   10:19:34 AM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+25-07-2014   10:19:35 AM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+25-07-2014   10:19:36 AM | LoggerName : Financial  | Clients memory Free:52, Total:106, Max:494
+25-07-2014   10:19:37 AM | LoggerName : Utilities  | Clients memory Free:75, Total:130, Max:494
+25-07-2014   10:19:37 AM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:130, Max:494
+25-07-2014   10:20:17 AM | LoggerName : Sales  | Clients memory Free:91, Total:162, Max:494
+25-07-2014   11:23:52 AM | LoggerName : ListController  | Clients memory Free:98, Total:198, Max:494
+25-07-2014   11:29:29 AM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+25-07-2014   12:13:04 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+25-07-2014   12:13:05 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+25-07-2014   12:13:08 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+25-07-2014   12:13:09 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+25-07-2014   12:13:10 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+25-07-2014   12:13:11 PM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+25-07-2014   12:13:12 PM | LoggerName : Financial  | Clients memory Free:52, Total:106, Max:494
+25-07-2014   12:13:13 PM | LoggerName : Utilities  | Clients memory Free:75, Total:130, Max:494
+25-07-2014   12:13:13 PM | LoggerName : Utilities  | STARTUP Memory Free:75, Total:130, Max:494
+25-07-2014   12:27:35 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+25-07-2014   12:27:35 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+01-08-2014   12:38:38 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+01-08-2014   12:38:39 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+01-08-2014   12:38:41 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+01-08-2014   12:38:42 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+01-08-2014   12:38:43 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+01-08-2014   12:38:44 PM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+01-08-2014   12:38:46 PM | LoggerName : Financial  | Clients memory Free:52, Total:106, Max:494
+01-08-2014   12:38:46 PM | LoggerName : Utilities  | Clients memory Free:75, Total:130, Max:494
+01-08-2014   12:38:47 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:130, Max:494
+01-08-2014   12:39:11 PM | LoggerName : Sales  | Clients memory Free:83, Total:159, Max:494
+01-08-2014   12:47:24 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+01-08-2014   12:47:24 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+01-08-2014   12:48:58 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+01-08-2014   12:49:03 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+01-08-2014   12:49:04 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+01-08-2014   12:49:05 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+01-08-2014   12:49:06 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+01-08-2014   12:49:07 PM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+01-08-2014   12:49:08 PM | LoggerName : Financial  | Clients memory Free:51, Total:105, Max:494
+01-08-2014   12:49:09 PM | LoggerName : Utilities  | Clients memory Free:75, Total:130, Max:494
+01-08-2014   12:49:09 PM | LoggerName : Utilities  | STARTUP Memory Free:75, Total:130, Max:494
+01-08-2014   12:51:26 PM | LoggerName : Utilities  | Clients memory Free:115, Total:201, Max:494
+01-08-2014   12:52:26 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+01-08-2014   12:52:26 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+06-08-2014   12:36:43 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+06-08-2014   12:36:47 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+06-08-2014   12:36:50 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+06-08-2014   12:36:51 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+06-08-2014   12:36:52 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+06-08-2014   12:36:53 PM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+06-08-2014   12:36:54 PM | LoggerName : Financial  | Clients memory Free:51, Total:105, Max:494
+06-08-2014   12:36:55 PM | LoggerName : Utilities  | Clients memory Free:75, Total:130, Max:494
+06-08-2014   12:36:55 PM | LoggerName : Utilities  | STARTUP Memory Free:75, Total:130, Max:494
+06-08-2014   12:40:40 PM | LoggerName : Utilities  | Clients memory Free:103, Total:177, Max:494
+06-08-2014   12:40:40 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+06-08-2014   12:40:40 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+08-08-2014   11:56:44 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+08-08-2014   11:56:46 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+08-08-2014   11:56:47 AM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+08-08-2014   11:56:48 AM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+08-08-2014   11:56:49 AM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+08-08-2014   11:56:50 AM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+08-08-2014   11:56:51 AM | LoggerName : Financial  | Clients memory Free:52, Total:106, Max:494
+08-08-2014   11:56:52 AM | LoggerName : Utilities  | Clients memory Free:75, Total:130, Max:494
+08-08-2014   11:56:53 AM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:130, Max:494
+08-08-2014   11:57:25 AM | LoggerName : PrescriptionTable  | Clients memory Free:90, Total:159, Max:494
+08-08-2014   11:59:15 AM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+08-08-2014   11:59:15 AM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+08-08-2014   12:19:17 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+08-08-2014   12:19:18 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+08-08-2014   12:19:19 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+08-08-2014   12:19:20 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+08-08-2014   12:19:21 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+08-08-2014   12:19:22 PM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+08-08-2014   12:19:24 PM | LoggerName : Financial  | Clients memory Free:52, Total:106, Max:494
+08-08-2014   12:19:25 PM | LoggerName : Utilities  | Clients memory Free:75, Total:130, Max:494
+08-08-2014   12:19:25 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:130, Max:494
+08-08-2014   12:19:41 PM | LoggerName : Sales  | Clients memory Free:97, Total:169, Max:494
+08-08-2014   12:21:53 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+08-08-2014   12:21:53 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+12-08-2014   10:44:43 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+12-08-2014   10:44:44 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+12-08-2014   10:44:46 AM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+12-08-2014   10:44:47 AM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+12-08-2014   10:44:48 AM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+12-08-2014   10:44:49 AM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+12-08-2014   10:44:50 AM | LoggerName : Financial  | Clients memory Free:52, Total:106, Max:494
+12-08-2014   10:44:51 AM | LoggerName : Utilities  | Clients memory Free:75, Total:130, Max:494
+12-08-2014   10:44:51 AM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:130, Max:494
+12-08-2014   10:47:01 AM | LoggerName : ListController  | Clients memory Free:75, Total:161, Max:494
+12-08-2014   10:47:35 AM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+12-08-2014   10:47:36 AM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+12-08-2014   12:15:56 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+12-08-2014   12:16:03 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+12-08-2014   12:16:05 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+12-08-2014   12:16:07 PM | LoggerName : Home  | Clients memory Free:10, Total:42, Max:494
+12-08-2014   12:16:07 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+12-08-2014   12:16:08 PM | LoggerName : Finanical  | Clients memory Free:49, Total:84, Max:494
+12-08-2014   12:16:10 PM | LoggerName : Financial  | Clients memory Free:58, Total:107, Max:494
+12-08-2014   12:16:11 PM | LoggerName : Utilities  | Clients memory Free:75, Total:130, Max:494
+12-08-2014   12:16:11 PM | LoggerName : Utilities  | STARTUP Memory Free:75, Total:130, Max:494
+12-08-2014   12:16:28 PM | LoggerName : Utilities  | Method: salesCalculations    Exception : null
+12-08-2014   12:16:28 PM | LoggerName : Utilities  | Method: salesCalculations    Exception : null
+12-08-2014   12:16:44 PM | LoggerName : Utilities  | Clients memory Free:71, Total:162, Max:494
+12-08-2014   12:16:56 PM | LoggerName : Utilities  | Method: salesCalculations    Exception : null
+12-08-2014   12:16:56 PM | LoggerName : Utilities  | Method: salesCalculations    Exception : null
+12-08-2014   12:18:12 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+12-08-2014   12:18:12 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+12-08-2014   12:18:12 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+12-08-2014   12:18:13 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+13-08-2014   03:41:53 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+13-08-2014   03:41:55 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+13-08-2014   03:41:56 PM | LoggerName : Utilities  | Clients memory Free:13, Total:25, Max:494
+13-08-2014   03:41:57 PM | LoggerName : Utilities  | Clients memory Free:24, Total:42, Max:494
+13-08-2014   03:41:58 PM | LoggerName : Utilities  | Clients memory Free:37, Total:65, Max:494
+13-08-2014   03:41:59 PM | LoggerName : Finanical  | Clients memory Free:48, Total:83, Max:494
+13-08-2014   03:42:00 PM | LoggerName : Financial  | Clients memory Free:52, Total:106, Max:494
+13-08-2014   03:42:01 PM | LoggerName : Utilities  | Clients memory Free:75, Total:130, Max:494
+13-08-2014   03:42:01 PM | LoggerName : Utilities  | STARTUP Memory Free:74, Total:130, Max:494
+13-08-2014   03:48:20 PM | LoggerName : Utilities  | Clients memory Free:97, Total:168, Max:494
+13-08-2014   04:09:18 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+18-08-2014   03:24:41 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+18-08-2014   03:24:42 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+18-08-2014   03:24:43 PM | LoggerName : RegistryFactory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:44 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:45 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:46 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:47 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:48 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:49 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:50 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:51 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:52 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:53 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:53 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+18-08-2014   03:24:54 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:54 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+18-08-2014   03:24:55 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:56 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:56 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+18-08-2014   03:24:57 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:58 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:24:58 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+18-08-2014   03:24:59 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:01 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:02 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:03 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:04 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:05 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:06 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:07 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:08 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:09 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:09 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:26, Max:494
+18-08-2014   03:25:10 PM | LoggerName : PurchaseReturn  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:11 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:12 PM | LoggerName : HeaderRenderer2  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:13 PM | LoggerName : HeaderRenderer2  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:14 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:15 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:16 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:17 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:18 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:19 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:20 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:21 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:22 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:23 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:23 PM | LoggerName : Inventory  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+18-08-2014   03:25:24 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:24 PM | LoggerName : Utilities  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+18-08-2014   03:25:25 PM | LoggerName : Home  | Clients memory Free:11, Total:43, Max:494
+18-08-2014   03:25:26 PM | LoggerName : Home  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:27 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:28 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:29 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:30 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:31 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:32 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:33 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:34 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:35 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:36 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:37 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:37 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+18-08-2014   03:25:38 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:38 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+18-08-2014   03:25:39 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:39 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+18-08-2014   03:25:40 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:40 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+18-08-2014   03:25:41 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:42 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:43 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:44 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:45 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:46 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:46 PM | LoggerName : Utilities  | Clients memory Free:39, Total:70, Max:494
+18-08-2014   03:25:47 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:47 PM | LoggerName : Utilities  | calcDiscTotal() settingsCtrl Exception:null
+18-08-2014   03:25:48 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:48 PM | LoggerName : Utilities  | calcDiscTotal() settingsCtrl Exception:null
+18-08-2014   03:25:49 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:49 PM | LoggerName : Utilities  | calcDiscTotal() settingsCtrl Exception:null
+18-08-2014   03:25:50 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:51 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:52 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:53 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:54 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:55 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:56 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:57 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:58 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+18-08-2014   03:25:59 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+13-05-2015   03:41:05 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+13-05-2015   03:41:12 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+13-05-2015   03:41:33 PM | LoggerName : RegistryFactory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:41:55 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:42:16 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:42:37 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:42:58 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:43:19 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:43:40 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:44:01 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:44:22 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:44:43 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:45:04 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:45:04 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+13-05-2015   03:45:25 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:45:25 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+13-05-2015   03:45:46 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:46:07 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:46:07 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+13-05-2015   03:46:28 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:46:49 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:46:49 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+13-05-2015   03:47:11 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:47:32 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:47:53 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:48:14 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:48:35 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:48:56 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:49:17 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:49:38 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:49:59 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:50:20 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:50:41 PM | LoggerName : PurchaseReturn  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:50:41 PM | LoggerName : Utilities  | Clients memory Free:11, Total:28, Max:494
+13-05-2015   03:51:02 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:51:24 PM | LoggerName : HeaderRenderer2  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:51:45 PM | LoggerName : HeaderRenderer2  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:52:06 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:52:27 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:52:48 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:53:09 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:53:30 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:53:51 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:54:12 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:54:33 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:54:54 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:55:15 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:55:15 PM | LoggerName : Inventory  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+13-05-2015   03:55:37 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:55:37 PM | LoggerName : Utilities  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+13-05-2015   03:55:37 PM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+13-05-2015   03:55:58 PM | LoggerName : Home  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:56:19 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:56:40 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:57:01 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   03:57:22 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:01:21 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+13-05-2015   04:01:27 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+13-05-2015   04:01:48 PM | LoggerName : RegistryFactory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:02:09 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:02:30 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:02:51 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:03:12 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:03:33 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:03:54 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:04:15 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:04:36 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:04:57 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:05:19 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:05:19 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+13-05-2015   04:05:40 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:05:40 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+13-05-2015   04:06:01 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:06:22 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:06:22 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+13-05-2015   04:06:43 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:07:04 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:07:04 PM | LoggerName : Utilities  | SetingController Exceptionb:null
+13-05-2015   04:07:25 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:07:46 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:08:07 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:08:28 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:08:49 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:09:10 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:09:31 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:09:52 PM | LoggerName : Masters  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:10:13 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:10:34 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:10:56 PM | LoggerName : PurchaseReturn  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:10:56 PM | LoggerName : Utilities  | Clients memory Free:11, Total:28, Max:494
+13-05-2015   04:11:17 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:11:38 PM | LoggerName : HeaderRenderer2  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:11:59 PM | LoggerName : HeaderRenderer2  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:12:20 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:12:41 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:13:02 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:13:23 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:13:44 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:14:06 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:14:27 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:14:48 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:15:09 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:15:30 PM | LoggerName : Inventory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:15:30 PM | LoggerName : Inventory  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+13-05-2015   04:15:51 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:15:51 PM | LoggerName : Utilities  | Method : getUserType     Exception :null Query :select user_type from user_info where user_name='DefaultUser'
+13-05-2015   04:15:51 PM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+13-05-2015   04:16:12 PM | LoggerName : Home  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:16:33 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:16:54 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:17:16 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:17:37 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:17:58 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:18:19 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:18:40 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:19:01 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:19:22 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:19:43 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:20:04 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:20:04 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+13-05-2015   04:20:25 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:20:25 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+13-05-2015   04:20:46 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:20:46 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+13-05-2015   04:21:07 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:21:07 PM | LoggerName : Utilities  | updateIntValues() settingsCtrl Exception:null
+13-05-2015   04:21:29 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:21:50 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:22:11 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:22:32 PM | LoggerName : CRM  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:22:53 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:23:14 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:23:35 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:23:35 PM | LoggerName : Utilities  | calcDiscTotal() settingsCtrl Exception:null
+13-05-2015   04:23:56 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:23:56 PM | LoggerName : Utilities  | calcDiscTotal() settingsCtrl Exception:null
+13-05-2015   04:24:17 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:24:17 PM | LoggerName : Utilities  | calcDiscTotal() settingsCtrl Exception:null
+13-05-2015   04:24:17 PM | LoggerName : Utilities  | Clients memory Free:39, Total:70, Max:494
+13-05-2015   04:24:38 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:24:59 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:25:20 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:25:41 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:26:03 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:26:24 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:26:45 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:27:06 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:27:27 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   04:27:48 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   07:43:05 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+13-05-2015   07:43:13 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+13-05-2015   07:43:35 PM | LoggerName : RegistryFactory  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+13-05-2015   07:43:56 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.100.20; nested exception is: 
+	java.net.ConnectException: Connection timed out: connect
+30-08-2023   12:32:39 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   12:32:40 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   12:32:42 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+30-08-2023   12:32:43 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   12:32:44 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   12:32:45 PM | LoggerName : Finanical  | Clients memory Free:48, Total:86, Max:494
+30-08-2023   12:32:47 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+30-08-2023   12:32:48 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:112, Max:494
+30-08-2023   12:32:48 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+30-08-2023   12:33:42 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+30-08-2023   12:38:24 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   12:38:25 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   12:38:27 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+30-08-2023   12:38:28 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   12:38:29 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   12:38:31 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+30-08-2023   12:38:32 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+30-08-2023   12:38:33 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:112, Max:494
+30-08-2023   12:38:33 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+30-08-2023   12:39:14 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+30-08-2023   12:39:14 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+30-08-2023   12:59:57 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   12:59:58 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   01:00:00 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+30-08-2023   01:00:01 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   01:00:02 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   01:00:04 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+30-08-2023   01:00:05 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+30-08-2023   01:00:06 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:112, Max:494
+30-08-2023   01:00:07 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+30-08-2023   01:00:51 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+30-08-2023   01:00:51 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+30-08-2023   01:01:31 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   01:01:32 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   01:01:34 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+30-08-2023   01:01:35 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   01:01:37 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   01:01:39 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+30-08-2023   01:01:40 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+30-08-2023   01:01:42 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:112, Max:494
+30-08-2023   01:01:42 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+30-08-2023   01:02:34 PM | LoggerName : ListController  |  Class : PrescriptionFormat   Method: savePrescription    Exception : net.sf.jasperreports.engine.JRException: java.io.FileNotFoundException: printerfiles\PrescriptionPrint.jasper
+30-08-2023   01:02:44 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | Clients memory Free:87, Total:172, Max:494
+30-08-2023   01:02:49 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  |  Class : PrescriptionFormat   Method: savePrescription    Exception : net.sf.jasperreports.engine.JRException: java.io.FileNotFoundException: printerfiles\PrescriptionPrint.jasper
+30-08-2023   01:04:59 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+30-08-2023   01:04:59 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+30-08-2023   01:05:59 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   01:06:00 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   01:06:02 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+30-08-2023   01:06:03 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   01:06:04 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   01:06:05 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+30-08-2023   01:06:07 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+30-08-2023   01:06:07 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:112, Max:494
+30-08-2023   01:06:08 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+30-08-2023   01:11:07 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+30-08-2023   01:11:07 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+30-08-2023   01:11:46 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   01:11:47 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   01:11:49 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+30-08-2023   01:11:50 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   01:11:51 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   01:11:53 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+30-08-2023   01:11:54 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+30-08-2023   01:11:56 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:112, Max:494
+30-08-2023   01:11:56 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+30-08-2023   01:12:33 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+30-08-2023   01:12:33 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+30-08-2023   01:16:04 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   01:16:05 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   01:16:07 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+30-08-2023   01:16:08 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   01:16:09 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   01:16:11 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+30-08-2023   01:16:12 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+30-08-2023   01:16:13 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+30-08-2023   01:16:13 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+30-08-2023   01:18:42 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+30-08-2023   01:18:42 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+30-08-2023   01:23:15 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   01:23:16 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   01:23:18 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+30-08-2023   01:23:19 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   01:23:20 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   01:23:22 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+30-08-2023   01:23:23 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+30-08-2023   01:23:24 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:112, Max:494
+30-08-2023   01:23:25 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+30-08-2023   01:23:57 PM | LoggerName : ListController  | Method: tablekeyReleased    Exception : null
+30-08-2023   01:23:57 PM | LoggerName : ListController  | Method: tablekeyReleased    Exception : null
+30-08-2023   01:24:01 PM | LoggerName : ListController  | GEtlistitems 12====>641.35
+30-08-2023   01:24:01 PM | LoggerName : ListController  | GEtlistitems 13====>128.27
+30-08-2023   01:25:00 PM | LoggerName : ListController  | Method: tablekeyReleased    Exception : null
+30-08-2023   01:25:02 PM | LoggerName : ListController  | GEtlistitems 12====>641.35
+30-08-2023   01:25:02 PM | LoggerName : ListController  | GEtlistitems 13====>641.35
+30-08-2023   01:25:06 PM | LoggerName : ListController  | Clients memory Free:96, Total:186, Max:494
+30-08-2023   01:25:53 PM | LoggerName : ListController  | Method: tablekeyReleased    Exception : null
+30-08-2023   01:26:20 PM | LoggerName : ListController  | GEtlistitems 12====>730.52
+30-08-2023   01:26:20 PM | LoggerName : ListController  | GEtlistitems 13====>80.63
+30-08-2023   01:28:23 PM | LoggerName : ListController  | Method: tablekeyReleased    Exception : null
+30-08-2023   01:28:34 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:28:34 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:28:34 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:28:34 PM | LoggerName : ListController  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+30-08-2023   01:28:37 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:28:37 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:28:37 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:28:37 PM | LoggerName : ListController  | GEtlistitems 13====>0.0
+30-08-2023   01:28:37 PM | LoggerName : ListController  | Method: tablekeyReleased    Exception : null
+30-08-2023   01:28:37 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:28:37 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:28:37 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:28:37 PM | LoggerName : ListController  | GEtlistitems 13====>133.1
+30-08-2023   01:28:56 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:28:56 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:28:56 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:28:56 PM | LoggerName : ListController  | GEtlistitems 13====>133.1
+30-08-2023   01:28:56 PM | LoggerName : ListController  | GEtlistitems 12====>555.29
+30-08-2023   01:28:56 PM | LoggerName : ListController  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 13====>133.1
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 12====>555.29
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 13====>0.0
+30-08-2023   01:29:02 PM | LoggerName : ListController  | Method: tablekeyReleased    Exception : null
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 13====>133.1
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 12====>555.29
+30-08-2023   01:29:02 PM | LoggerName : ListController  | GEtlistitems 13====>2759.55
+30-08-2023   01:29:06 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:29:06 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:29:06 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:29:06 PM | LoggerName : ListController  | GEtlistitems 13====>133.1
+30-08-2023   01:29:06 PM | LoggerName : ListController  | GEtlistitems 12====>555.29
+30-08-2023   01:29:06 PM | LoggerName : ListController  | GEtlistitems 13====>0.0
+30-08-2023   01:29:12 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:29:12 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:29:12 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:29:12 PM | LoggerName : ListController  | GEtlistitems 13====>133.1
+30-08-2023   01:29:12 PM | LoggerName : ListController  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 13====>133.1
+30-08-2023   01:29:13 PM | LoggerName : ListController  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 13====>133.1
+30-08-2023   01:29:13 PM | LoggerName : ListController  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 13====>133.1
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 12====>555.29
+30-08-2023   01:29:13 PM | LoggerName : ListController  | GEtlistitems 13====>1150.0
+30-08-2023   01:29:18 PM | LoggerName : ListController  | GEtlistitems 12====>2500.0
+30-08-2023   01:29:18 PM | LoggerName : ListController  | GEtlistitems 13====>250.0
+30-08-2023   01:29:18 PM | LoggerName : ListController  | GEtlistitems 12====>532.41
+30-08-2023   01:29:18 PM | LoggerName : ListController  | GEtlistitems 13====>133.1
+30-08-2023   01:29:18 PM | LoggerName : ListController  | GEtlistitems 12====>555.29
+30-08-2023   01:29:18 PM | LoggerName : ListController  | GEtlistitems 13====>1150.0
+30-08-2023   01:29:56 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+30-08-2023   01:29:56 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+30-08-2023   02:44:03 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   02:44:05 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   02:44:07 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+30-08-2023   02:44:08 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   02:44:09 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   02:44:12 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+30-08-2023   02:44:13 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+30-08-2023   02:44:14 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+30-08-2023   02:44:15 PM | LoggerName : Utilities  | Clients memory Free:83, Total:144, Max:494
+30-08-2023   02:45:35 PM | LoggerName : ListController  | Method: calculateMargin   Exception : null
+30-08-2023   02:47:26 PM | LoggerName : ListController  | Clients memory Free:72, Total:149, Max:494
+30-08-2023   02:59:01 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   02:59:02 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   02:59:04 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+30-08-2023   02:59:05 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   02:59:06 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   02:59:07 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+30-08-2023   02:59:09 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+30-08-2023   02:59:10 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+30-08-2023   02:59:10 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+30-08-2023   03:01:06 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   03:01:07 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   03:01:09 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+30-08-2023   03:01:11 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   03:01:12 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   03:01:15 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+30-08-2023   03:01:16 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+30-08-2023   03:01:18 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+30-08-2023   03:01:18 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+30-08-2023   03:02:18 PM | LoggerName : Utilities  | Class : Sales Maintanance  Method : Save()   = Invalid page index range : 0 - -1 of 0
+30-08-2023   03:02:23 PM | LoggerName : Utilities  | Class : Sales Maintanance  Method : Save()   = Invalid page index range : 0 - -1 of 0
+30-08-2023   03:03:16 PM | LoggerName : Utilities  | Clients memory Free:94, Total:175, Max:494
+30-08-2023   03:03:16 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+30-08-2023   03:03:16 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+30-08-2023   03:05:34 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+30-08-2023   03:05:35 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+30-08-2023   03:05:37 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+30-08-2023   03:05:38 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+30-08-2023   03:05:39 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+30-08-2023   03:05:41 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+30-08-2023   03:05:42 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+30-08-2023   03:05:43 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:112, Max:494
+30-08-2023   03:05:44 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+30-08-2023   03:06:39 PM | LoggerName : Utilities  | Clients memory Free:94, Total:168, Max:494
+30-08-2023   03:07:04 PM | LoggerName : Sales  | Method: tablekeyReleased    Exception : null
+30-08-2023   03:07:07 PM | LoggerName : Sales  | GEtlistitems 12====>210.0
+30-08-2023   03:07:07 PM | LoggerName : Sales  | GEtlistitems 13====>10.5
+30-08-2023   03:07:25 PM | LoggerName : Sales  | Method:maintainData Error null
+30-08-2023   03:10:15 PM | LoggerName : Sales  | Class : Tools Method : LoadFile() File path : D:\Ganga\Customer Support  Project\Imran\MedeilClient\Medeil\Medeil\PMS Version 1.0 - User Manual.pdf
+30-08-2023   03:10:15 PM | LoggerName : Sales  | Class : Tools Method : LoadFile() Unable to load file.Check file path : D:\Ganga\Customer Support  Project\Imran\MedeilClient\Medeil\Medeil\PMS Version 1.0 - User Manual.pdf
+30-08-2023   03:10:24 PM | LoggerName : Sales  | Class : Tools Method : LoadFile() File path : D:\Ganga\Customer Support  Project\Imran\MedeilClient\Medeil\Medeil\PMS Version 1.0 - User Manual.pdf
+30-08-2023   03:10:24 PM | LoggerName : Sales  | Class : Tools Method : LoadFile() Unable to load file.Check file path : D:\Ganga\Customer Support  Project\Imran\MedeilClient\Medeil\Medeil\PMS Version 1.0 - User Manual.pdf
+30-08-2023   03:22:05 PM | LoggerName : ListController  | Class : Tools Method : LoadFile() File path : D:\Ganga\Customer Support  Project\Imran\MedeilClient\Medeil\Medeil\Medeil_Reports.exe
+30-08-2023   03:22:05 PM | LoggerName : ListController  | Class : Tools Method : LoadFile() Unable to load file.Check file path : D:\Ganga\Customer Support  Project\Imran\MedeilClient\Medeil\Medeil\Medeil_Reports.exe
+30-08-2023   04:20:45 PM | LoggerName : Utilities  | Clients memory Free:77, Total:199, Max:494
+30-08-2023   04:20:45 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+30-08-2023   04:20:46 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+05-09-2023   11:43:37 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+05-09-2023   11:43:38 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+05-09-2023   11:43:40 AM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+05-09-2023   11:43:41 AM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+05-09-2023   11:43:42 AM | LoggerName : Utilities  | Clients memory Free:35, Total:62, Max:494
+05-09-2023   11:43:44 AM | LoggerName : Finanical  | Clients memory Free:48, Total:86, Max:494
+05-09-2023   11:43:46 AM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+05-09-2023   11:43:47 AM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+05-09-2023   11:43:47 AM | LoggerName : Utilities  | Clients memory Free:83, Total:144, Max:494
+05-09-2023   11:45:59 AM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+05-09-2023   11:45:59 AM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+05-09-2023   11:47:28 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+05-09-2023   11:47:29 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+05-09-2023   11:47:31 AM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+05-09-2023   11:47:32 AM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+05-09-2023   11:47:33 AM | LoggerName : Utilities  | Clients memory Free:35, Total:62, Max:494
+05-09-2023   11:47:35 AM | LoggerName : Finanical  | Clients memory Free:48, Total:86, Max:494
+05-09-2023   11:47:37 AM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+05-09-2023   11:47:38 AM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+05-09-2023   11:47:38 AM | LoggerName : Utilities  | Clients memory Free:83, Total:144, Max:494
+05-09-2023   11:48:24 AM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+05-09-2023   11:48:24 AM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+05-09-2023   11:49:45 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+05-09-2023   11:49:46 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+05-09-2023   11:49:48 AM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+05-09-2023   11:49:50 AM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+05-09-2023   11:49:51 AM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+05-09-2023   11:49:53 AM | LoggerName : Finanical  | Clients memory Free:48, Total:86, Max:494
+05-09-2023   11:49:54 AM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+05-09-2023   11:49:56 AM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+05-09-2023   11:49:56 AM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+05-09-2023   11:54:26 AM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+05-09-2023   11:54:26 AM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+05-09-2023   11:57:44 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+05-09-2023   11:57:45 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+05-09-2023   11:57:47 AM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+05-09-2023   11:57:49 AM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+05-09-2023   11:57:50 AM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+05-09-2023   11:57:52 AM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+05-09-2023   11:57:54 AM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+05-09-2023   11:57:55 AM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+05-09-2023   11:57:56 AM | LoggerName : Utilities  | Clients memory Free:83, Total:144, Max:494
+05-09-2023   11:58:57 AM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+05-09-2023   11:58:57 AM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+05-09-2023   11:59:48 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+05-09-2023   11:59:49 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+05-09-2023   11:59:51 AM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+05-09-2023   11:59:53 AM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+05-09-2023   11:59:54 AM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+05-09-2023   11:59:56 AM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+05-09-2023   11:59:58 AM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+05-09-2023   11:59:59 AM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+05-09-2023   11:59:59 AM | LoggerName : Utilities  | Clients memory Free:83, Total:144, Max:494
+05-09-2023   12:05:09 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+05-09-2023   12:05:09 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+05-09-2023   12:06:16 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+05-09-2023   12:06:17 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+05-09-2023   12:06:20 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+05-09-2023   12:06:21 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+05-09-2023   12:06:22 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+05-09-2023   12:06:25 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+05-09-2023   12:06:27 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+05-09-2023   12:06:32 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+05-09-2023   12:06:33 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+05-09-2023   12:07:40 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | Method: tablekeyReleased    Exception : null
+05-09-2023   12:08:06 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | GEtlistitems 12====>null
+05-09-2023   12:08:06 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | GEtlistitems 13====>60.0
+05-09-2023   12:08:16 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | Method: tablekeyReleased    Exception : null
+05-09-2023   12:08:19 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | GEtlistitems 12====>null
+05-09-2023   12:08:19 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | GEtlistitems 13====>12.0
+05-09-2023   12:09:39 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | Method: tablekeyReleased    Exception : null
+05-09-2023   12:09:42 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | GEtlistitems 12====>null
+05-09-2023   12:09:42 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | GEtlistitems 13====>65.8
+05-09-2023   12:10:05 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | Method: tablekeyReleased    Exception : null
+05-09-2023   12:10:07 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | GEtlistitems 12====>190.86
+05-09-2023   12:10:07 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | GEtlistitems 13====>65.8
+05-09-2023   12:10:54 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+05-09-2023   12:10:54 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+05-09-2023   05:12:50 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+05-09-2023   05:12:51 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+05-09-2023   05:12:52 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+05-09-2023   05:12:54 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+05-09-2023   05:12:54 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+05-09-2023   05:12:56 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+05-09-2023   05:12:58 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+05-09-2023   05:12:59 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:112, Max:494
+05-09-2023   05:12:59 PM | LoggerName : Utilities  | Clients memory Free:73, Total:136, Max:494
+05-09-2023   05:28:41 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+05-09-2023   05:28:41 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+05-09-2023   05:33:06 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+05-09-2023   05:33:07 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+05-09-2023   05:33:09 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+05-09-2023   05:33:11 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+05-09-2023   05:33:12 PM | LoggerName : Utilities  | Clients memory Free:35, Total:62, Max:494
+05-09-2023   05:33:14 PM | LoggerName : Finanical  | Clients memory Free:48, Total:86, Max:494
+05-09-2023   05:33:15 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+05-09-2023   05:33:16 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:112, Max:494
+05-09-2023   05:33:17 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+05-09-2023   05:34:04 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | GEtlistitems 12====>690.0
+05-09-2023   05:34:04 PM | LoggerName : com.vanuston.medeil.uitables.PrescriptionDetails  | GEtlistitems 13====>120.0
+05-09-2023   05:36:35 PM | LoggerName : Masters  | Clients memory Free:108, Total:188, Max:494
+05-09-2023   05:36:44 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+05-09-2023   05:36:44 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+05-09-2023   06:01:25 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+05-09-2023   06:01:26 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+05-09-2023   06:01:28 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:28, Max:494
+05-09-2023   06:01:29 PM | LoggerName : Home  | Clients memory Free:13, Total:46, Max:494
+05-09-2023   06:01:30 PM | LoggerName : Utilities  | Clients memory Free:36, Total:62, Max:494
+05-09-2023   06:01:32 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+05-09-2023   06:01:33 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+05-09-2023   06:01:34 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:112, Max:494
+05-09-2023   06:01:34 PM | LoggerName : Utilities  | Clients memory Free:73, Total:136, Max:494
+05-09-2023   06:02:10 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+05-09-2023   06:02:10 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+28-08-2024   05:33:59 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+28-08-2024   05:34:06 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+28-08-2024   05:34:10 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+28-08-2024   05:34:13 PM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+28-08-2024   05:34:16 PM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+28-08-2024   05:34:19 PM | LoggerName : Finanical  | Clients memory Free:49, Total:87, Max:494
+28-08-2024   05:34:22 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+28-08-2024   05:34:25 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+28-08-2024   05:34:26 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+28-08-2024   05:50:01 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+28-08-2024   05:50:01 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+28-08-2024   05:58:52 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+28-08-2024   05:59:00 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+28-08-2024   05:59:05 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+28-08-2024   05:59:09 PM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+28-08-2024   05:59:12 PM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+28-08-2024   05:59:16 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+28-08-2024   05:59:20 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+28-08-2024   05:59:23 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+28-08-2024   05:59:25 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+28-08-2024   06:00:10 PM | LoggerName : Utilities  | Method: createTable   Exception : 15 >= 15
+28-08-2024   06:03:10 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+28-08-2024   06:03:10 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+28-08-2024   06:06:27 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+28-08-2024   06:06:35 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+28-08-2024   06:06:41 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+28-08-2024   06:06:46 PM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+28-08-2024   06:06:49 PM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+28-08-2024   06:06:53 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+28-08-2024   06:06:58 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+28-08-2024   06:07:01 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+28-08-2024   06:07:03 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+28-08-2024   06:07:46 PM | LoggerName : Sales  | Method: tablekeyReleased    Exception : null
+28-08-2024   06:13:20 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+28-08-2024   06:13:20 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+28-08-2024   06:16:27 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+28-08-2024   06:16:35 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+28-08-2024   06:16:39 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+28-08-2024   06:16:43 PM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+28-08-2024   06:16:45 PM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+28-08-2024   06:16:49 PM | LoggerName : Finanical  | Clients memory Free:49, Total:87, Max:494
+28-08-2024   06:16:53 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+28-08-2024   06:16:56 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+28-08-2024   06:16:57 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+28-08-2024   06:17:42 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+28-08-2024   06:17:58 PM | LoggerName : Sales  | Method : calculateMargin Exception:1
+28-08-2024   06:17:58 PM | LoggerName : Sales  | Method:updateIntValues Error null
+28-08-2024   06:17:58 PM | LoggerName : Sales  | Method:updateIntValues Error null
+28-08-2024   06:20:21 PM | LoggerName : Utilities  | Clients memory Free:117, Total:202, Max:494
+28-08-2024   06:20:21 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+28-08-2024   06:20:21 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+28-08-2024   07:17:11 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+28-08-2024   07:17:27 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+28-08-2024   07:17:32 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+28-08-2024   07:17:36 PM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+28-08-2024   07:17:38 PM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+28-08-2024   07:17:43 PM | LoggerName : Finanical  | Clients memory Free:49, Total:86, Max:494
+28-08-2024   07:17:47 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+28-08-2024   07:17:50 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+28-08-2024   07:17:52 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+28-08-2024   08:27:44 PM | LoggerName : Utilities  | Clients memory Free:59, Total:169, Max:494
+05-09-2024   02:14:14 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+05-09-2024   02:14:18 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+05-09-2024   02:14:22 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+05-09-2024   02:14:25 PM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+05-09-2024   02:14:27 PM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+05-09-2024   02:14:30 PM | LoggerName : Finanical  | Clients memory Free:49, Total:87, Max:494
+05-09-2024   02:14:34 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+05-09-2024   02:14:36 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+05-09-2024   02:14:37 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+05-09-2024   02:15:05 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+05-09-2024   02:15:18 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+05-09-2024   02:15:27 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+05-09-2024   02:15:37 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+05-09-2024   02:15:48 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+05-09-2024   02:16:02 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+05-09-2024   02:16:33 PM | LoggerName : Sales  | Clients memory Free:85, Total:160, Max:494
+05-09-2024   02:16:39 PM | LoggerName : Sales  | Method : calculateMargin Exception:1
+05-09-2024   02:16:39 PM | LoggerName : Sales  | Method : calculateMargin Exception:2
+05-09-2024   02:16:39 PM | LoggerName : Sales  | Method : calculateMargin Exception:3
+05-09-2024   02:16:39 PM | LoggerName : Sales  | Method : calculateMargin Exception:4
+05-09-2024   02:16:39 PM | LoggerName : Sales  | Method : calculateMargin Exception:5
+05-09-2024   02:16:39 PM | LoggerName : Sales  | Method : calculateMargin Exception:6
+05-09-2024   02:16:39 PM | LoggerName : Sales  | Method:updateIntValues Error null
+05-09-2024   02:16:39 PM | LoggerName : Sales  | Method:updateIntValues Error null
+05-09-2024   02:19:23 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+05-09-2024   02:19:23 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+05-09-2024   02:21:59 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+05-09-2024   02:22:04 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+05-09-2024   02:22:08 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+05-09-2024   02:22:11 PM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+05-09-2024   02:22:13 PM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+05-09-2024   02:22:17 PM | LoggerName : Finanical  | Clients memory Free:49, Total:87, Max:494
+05-09-2024   02:22:20 PM | LoggerName : Financial  | Clients memory Free:62, Total:111, Max:494
+05-09-2024   02:22:22 PM | LoggerName : Utilities  | STARTUP Memory Free:51, Total:111, Max:494
+05-09-2024   02:22:23 PM | LoggerName : Utilities  | Clients memory Free:83, Total:145, Max:494
+05-09-2024   02:23:39 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+05-09-2024   02:23:48 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+05-09-2024   02:27:26 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+05-09-2024   02:27:41 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+05-09-2024   02:28:02 PM | LoggerName : Sales  | Clients memory Free:95, Total:183, Max:494
+05-09-2024   02:28:47 PM | LoggerName : Sales  | Method : calculateMargin Exception:1
+05-09-2024   02:28:47 PM | LoggerName : Sales  | Method : calculateMargin Exception:2
+05-09-2024   02:28:47 PM | LoggerName : Sales  | Method : calculateMargin Exception:3
+05-09-2024   02:28:47 PM | LoggerName : Sales  | Method : calculateMargin Exception:4
+05-09-2024   02:28:47 PM | LoggerName : Sales  | Method:updateIntValues Error null
+05-09-2024   02:28:47 PM | LoggerName : Sales  | Method:updateIntValues Error null
+05-09-2024   02:28:53 PM | LoggerName : Sales  | Method:updateIntValues Error null
+05-09-2024   02:28:53 PM | LoggerName : Sales  | Method:updateIntValues Error null
+05-09-2024   04:12:48 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.1.6; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+05-09-2024   04:12:48 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+05-09-2024   04:12:48 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+05-09-2024   04:12:51 PM | LoggerName : Utilities  | Method:getClientStub Exception:Connection refused to host: 192.168.1.6; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+06-09-2024   10:23:01 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+06-09-2024   10:23:06 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+06-09-2024   10:23:11 AM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+06-09-2024   10:23:15 AM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+06-09-2024   10:23:17 AM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+06-09-2024   10:23:23 AM | LoggerName : Finanical  | Clients memory Free:50, Total:88, Max:494
+06-09-2024   10:23:26 AM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+06-09-2024   10:23:29 AM | LoggerName : Utilities  | STARTUP Memory Free:52, Total:112, Max:494
+06-09-2024   10:23:31 AM | LoggerName : Utilities  | Clients memory Free:83, Total:146, Max:494
+06-09-2024   10:27:55 AM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+06-09-2024   10:28:08 AM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+06-09-2024   10:28:17 AM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+06-09-2024   10:28:27 AM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+06-09-2024   10:28:48 AM | LoggerName : Sales  | Clients memory Free:89, Total:166, Max:494
+06-09-2024   11:06:27 AM | LoggerName : Sales  | Method : calculateMargin Exception:1
+06-09-2024   11:06:27 AM | LoggerName : Sales  | Method : calculateMargin Exception:2
+06-09-2024   11:06:27 AM | LoggerName : Sales  | Method : calculateMargin Exception:3
+06-09-2024   11:06:27 AM | LoggerName : Sales  | Method : calculateMargin Exception:4
+06-09-2024   11:06:27 AM | LoggerName : Sales  | Method:updateIntValues Error null
+06-09-2024   11:06:27 AM | LoggerName : Sales  | Method:updateIntValues Error null
+06-09-2024   11:20:57 AM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+06-09-2024   11:20:57 AM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+06-09-2024   11:26:43 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+06-09-2024   11:26:49 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+06-09-2024   11:26:55 AM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+06-09-2024   11:26:59 AM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+06-09-2024   11:27:02 AM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+06-09-2024   11:27:07 AM | LoggerName : Finanical  | Clients memory Free:49, Total:88, Max:494
+06-09-2024   11:27:14 AM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+06-09-2024   11:27:22 AM | LoggerName : Utilities  | STARTUP Memory Free:52, Total:112, Max:494
+06-09-2024   11:27:24 AM | LoggerName : Utilities  | Clients memory Free:84, Total:146, Max:494
+06-09-2024   11:28:38 AM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+06-09-2024   11:29:28 AM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+06-09-2024   11:29:53 AM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+06-09-2024   11:30:33 AM | LoggerName : Sales  | Clients memory Free:91, Total:169, Max:494
+06-09-2024   11:30:47 AM | LoggerName : ListController  | Method : calculateMargin Exception:1
+06-09-2024   11:30:48 AM | LoggerName : ListController  | Method : calculateMargin Exception:2
+06-09-2024   11:30:48 AM | LoggerName : ListController  | Method : calculateMargin Exception:3
+06-09-2024   11:30:48 AM | LoggerName : ListController  | Method:updateIntValues Error null
+06-09-2024   11:30:48 AM | LoggerName : ListController  | Method:updateIntValues Error null
+06-09-2024   11:30:54 AM | LoggerName : ListController  | Method:updateIntValues Error null
+06-09-2024   11:30:54 AM | LoggerName : ListController  | Method:updateIntValues Error null
+06-09-2024   11:32:44 AM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+06-09-2024   11:32:44 AM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+06-09-2024   11:42:34 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+06-09-2024   11:42:40 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+06-09-2024   11:42:52 AM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+06-09-2024   11:43:03 AM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+06-09-2024   11:43:11 AM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+06-09-2024   11:43:26 AM | LoggerName : Finanical  | Clients memory Free:49, Total:87, Max:494
+06-09-2024   11:43:36 AM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+06-09-2024   11:43:44 AM | LoggerName : Utilities  | STARTUP Memory Free:52, Total:112, Max:494
+06-09-2024   11:43:45 AM | LoggerName : Utilities  | Clients memory Free:83, Total:146, Max:494
+06-09-2024   12:10:09 PM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+06-09-2024   12:20:59 PM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+06-09-2024   12:21:05 PM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+06-09-2024   12:21:17 PM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+06-09-2024   12:21:27 PM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+06-09-2024   12:21:35 PM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+06-09-2024   12:21:49 PM | LoggerName : Finanical  | Clients memory Free:49, Total:87, Max:494
+06-09-2024   12:22:00 PM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+06-09-2024   12:22:12 PM | LoggerName : Utilities  | STARTUP Memory Free:52, Total:112, Max:494
+06-09-2024   12:22:14 PM | LoggerName : Utilities  | Clients memory Free:83, Total:146, Max:494
+06-09-2024   12:24:35 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+06-09-2024   12:24:36 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
+10-09-2024   11:11:36 AM | LoggerName : Main  | Main Entry Free:14, Total:15, Max:494
+10-09-2024   11:11:41 AM | LoggerName : RegistryFactory  | Clients memory Free:8, Total:15, Max:494
+10-09-2024   11:11:46 AM | LoggerName : PurchaseReturn  | Clients memory Free:14, Total:27, Max:494
+10-09-2024   11:11:51 AM | LoggerName : Home  | Clients memory Free:13, Total:45, Max:494
+10-09-2024   11:11:54 AM | LoggerName : Utilities  | Clients memory Free:35, Total:61, Max:494
+10-09-2024   11:11:59 AM | LoggerName : Finanical  | Clients memory Free:49, Total:88, Max:494
+10-09-2024   11:12:03 AM | LoggerName : Financial  | Clients memory Free:63, Total:112, Max:494
+10-09-2024   11:12:06 AM | LoggerName : Utilities  | STARTUP Memory Free:52, Total:112, Max:494
+10-09-2024   11:12:07 AM | LoggerName : Utilities  | Clients memory Free:84, Total:146, Max:494
+10-09-2024   11:13:44 AM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+10-09-2024   11:13:55 AM | LoggerName : Sales  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+10-09-2024   11:14:12 AM | LoggerName : Sales  | Clients memory Free:86, Total:161, Max:494
+10-09-2024   11:40:55 AM | LoggerName : Sales  | Method : calculateMargin Exception:1
+10-09-2024   11:40:55 AM | LoggerName : Sales  | Method : calculateMargin Exception:2
+10-09-2024   11:40:55 AM | LoggerName : Sales  | Method:updateIntValues Error null
+10-09-2024   11:40:55 AM | LoggerName : Sales  | Method:updateIntValues Error null
+10-09-2024   11:40:57 AM | LoggerName : Sales  | Method:updateIntValues Error null
+10-09-2024   11:40:57 AM | LoggerName : Sales  | Method:updateIntValues Error null
+10-09-2024   12:02:25 PM | LoggerName : ListController  | Method: getSalesBillItems    Exception : java.lang.Integer cannot be cast to java.lang.Double
+10-09-2024   12:05:12 PM | LoggerName : Utilities  | Class:Main Medthod : Logout()  Logout Called..
+10-09-2024   12:05:12 PM | LoggerName : Utilities  | Class : Autobackup  Method  :usingDump  Exception:Cannot run program "Data\bin\mysqldump": CreateProcess error=2, The system cannot find the file specified
